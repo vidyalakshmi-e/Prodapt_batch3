@@ -1,0 +1,61 @@
+{
+  "bookings": [
+    {
+      "id": "1",
+      "customer": "Rahul",
+      "sport": "Football",
+      "hours": 2,
+      "amount": 2400,
+      "status": "Confirmed"
+    },
+    {
+      "id": "2",
+      "customer": "Priya",
+      "sport": "Cricket",
+      "hours": 3,
+      "amount": 3600,
+      "status": "Pending"
+    },
+    {
+      "id": "3",
+      "customer": "Arun",
+      "sport": "Football",
+      "hours": 1,
+      "amount": 1200,
+      "status": "Confirmed"
+    },
+    {
+      "id": "2faq6oIPEA4",
+      "customer": "Vidya",
+      "sport": "Throwput",
+      "hours": 10,
+      "amount": 24000,
+      "status": "Confirmed"
+    },
+    {
+      "id": "rDGErm9MBd0",
+      "customer": "Vidya",
+      "sport": "Throwput",
+      "hours": 10,
+      "amount": 24000,
+      "status": "Confirmed"
+    },
+    {
+      "id": "Vwt5Q40KKlU",
+      "customer": "Vidya",
+      "sport": "Throwput",
+      "hours": 10,
+      "amount": 24000,
+      "status": "Confirmed"
+    },
+    {
+      "id": "6",
+      "customer": "vidyalakshmi",
+      "sport": "Football",
+      "hours": 2,
+      "amount": 240000,
+      "status": "Confirmed"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
